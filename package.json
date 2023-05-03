@@ -1,0 +1,23 @@
+{
+  "name": "path_fs_take_home_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-dimas/productzilla_D22_fs_path_take_home_task.git"
+  },
+  "author": "Dimas Octa Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-dimas/productzilla_D22_fs_path_take_home_task/issues"
+  },
+  "homepage": "https://github.com/dev-dimas/productzilla_D22_fs_path_take_home_task#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "table": "^6.8.1"
+  }
+}
